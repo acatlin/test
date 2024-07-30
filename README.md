@@ -2,9 +2,9 @@ test
 ====
 
 ```mermaid
-graph
-  A[Synthetic]
-  B[Moody's]
-  C[EUR->USD]
+graph TB
+  A[Synthetic Data]
+  B[Moody's 20+ Year Aaa Bond]
+  C[EUR->USD Exchange Rates]
 ```
 
